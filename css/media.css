@@ -1,0 +1,296 @@
+@media(max-width:1440px){
+.imgMain>img{
+  width: 50%;
+  margin-right: 80%;
+  margin-top: 2%;
+}
+
+.nazvanie{
+padding-left: 0;
+padding-top: 8%;
+}
+.block{
+  margin-left: 2%;
+}
+.WhatWeDo{
+padding-left: 6%;
+}
+.wrapper2 img{
+  padding-top: 5%;
+}
+}
+
+@media(max-width:1024px){
+.letsTalk a{
+  margin-top: 3.5%;
+}
+header h3{
+  font-size: 30px;
+}
+.nazvanie{
+  padding: 0;
+  margin-top: 7%;
+  margin-left: 20%;
+}
+#logo{
+  width: 10%;
+  height: 10px;
+}
+.subtract2 {
+  padding-left: 80%;
+  padding-top: 20%;
+}
+.subtract{
+  padding-top: 21%;
+}
+.WhatWeDo{
+margin-bottom: 15px;
+}
+.blue{
+  width: 300px;
+}
+.block{
+  width: 300px;
+}
+.block h3{
+  font-size:1.2em;
+}
+.block2{
+  width: 300px;
+
+}
+.blue2{
+  width: 300px;
+}
+.block2 h3{
+  font-size: 1.2em;
+  padding-top: 39%;
+}
+.block3{
+  width: 320px;
+}
+.blue3{
+  width: 320px;
+}
+.block3 h3{
+  font-size: 1.2em;
+  padding-top: 36%;
+}
+.mila {
+  width: 50%;
+  margin-right: 15%;
+  padding-left: 0;
+}
+
+.WhoAreWe{
+  padding-left: 4%;
+  width: 400px;
+}
+.WhoAreWe h3{
+  font-size: 0.5em;
+}
+.imgo{
+  margin-left: 20%;
+}
+}
+@media(max-width:768px){
+  div.imgMain>img{
+    width: 100%;
+    padding-left: 0;
+  }
+  .nazvanie{
+  margin-left: 8%;
+  }
+.polygon3 img{
+  padding-top: 15%;
+  width: 60%;
+}
+.polygon4 img{
+  padding-top: 18%;
+  width: 60%;
+}
+.subtract2{
+  padding-top: 12%;
+  padding-left: 72%;
+}
+.subtract{
+  padding-top: 13%;
+  padding-left: 75%;
+}
+.block{
+  width: 235px;
+margin-left: 15px;
+}
+.blue{
+  width: 235px;
+}
+.blue p{
+  padding-left: 15px;
+  padding-top: 20px;
+}
+.block2{
+  width: 235px;
+
+}
+.block2 h3{
+  margin-top: 12%;
+}
+.blue2{
+  width: 235px;
+
+}
+.block3{
+  width: 235px;
+}
+.block3 h3{
+  padding-top: 50%;
+}
+.blue3{
+  width: 235px;
+}
+.blue3 p{
+  padding-top: 2px;
+}
+.main{
+  height: 60vh;
+}
+.mila {
+  width: 100%;
+}
+.mila>img {
+  position: absolute;
+  width: 64%;
+}
+.WhoAreWe h3{
+width: 250px;
+font-size: 0.5em;
+}
+.WhoAreWe {
+padding-left: 10px;
+padding-top: 0;
+}
+.WhoAreWe p{
+  margin-left: 10px;
+}
+.imgo {
+  margin-left: 50%;
+
+}
+}
+@media(max-width: 425px){
+#logo{
+  margin-left: 0;
+}
+.letsTalk a{
+margin-right: 0;
+margin-top: 30px;
+}
+
+.nazvanie{
+  position: absolute;
+  width: 100%;
+  padding-top: 100px;
+margin-left: 0;}
+.nazvanie img{
+  width: 100%;
+}
+
+  div.imgMain>img{
+    padding-top: 20px;
+    width: 100%;
+    padding-left: 0;
+  }
+.subtract2 img{
+  width: 100%;
+  padding-top: 20px;
+}
+.subtract img{
+  width: 100%;
+  padding-top: 20px;
+}
+.polygon3 img{
+  width:30%;
+padding-left: 0;
+}
+.polygon3{
+  padding-left: 0;
+}
+.polygon4 img{
+  width:30%;
+padding-left: 0;
+
+}
+.main{
+  height: 40vh;
+}
+.WhatWeDo p{
+  font-size: 1em;
+}
+.wrapper{
+  display: block;
+}
+.block{
+  width: 400px;
+  margin-left: 13px;
+}
+.block h3{
+  font-size: 1.5em;
+}
+.blue{
+  width: 400px;
+}
+.blue p{
+  padding-left: 10%;
+}
+.block2{
+  width: 400px;
+  margin-left: 13px;
+
+}
+.block2 h3{
+  font-size: 1.5em;
+  padding-top: 16%;
+}
+.blue2{
+  width: 400px;
+}
+.blue2 p{
+  padding-left: 10%;
+}
+.block3{
+  width: 400px;
+  margin-left: 13px;
+}
+.block3 h3{
+  font-size: 1.5em;
+  padding-top: 33%;
+}
+.blue3{
+  width: 400px;
+}
+.blue3 p{
+padding-top: 20px;
+}
+
+.WhoAreWe h3{
+  font-size: 0.4em;
+  width: 400px;
+text-align: left;
+}
+.WhoAreWe p{
+  width: 300px;
+  font-size: 1em;
+}
+.mila{
+position: absolute;
+}
+.mila img{
+  padding-top: 240px;
+  width: 100%;
+  position: absolute;
+}
+.imgo{
+  margin-top: 30px;
+  margin-left: 30%;
+}
+}
