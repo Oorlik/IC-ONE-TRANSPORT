@@ -18,3 +18,7 @@ for (let elm of elements) {
   observer.observe(elm);
 }
 
+function showAlert(event) {
+  event.preventDefault(); // Предотвращаем отправку формы
+  alert("Successfully sent");
+}
