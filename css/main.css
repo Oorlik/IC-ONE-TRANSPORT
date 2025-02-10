@@ -337,7 +337,7 @@ padding-top: 5%;
   background: #5999ff;
   padding: 30px;
   border-radius: 10px;
-  width: 450px;
+  width: 550px;
  
   margin: 50px auto;
   margin-top: 200px;
@@ -383,3 +383,4 @@ input[type="text"], input[type="email"], input[type="tel"] {
 .pol{
   margin: 10px;
 }
+
